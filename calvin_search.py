@@ -1,5 +1,4 @@
-#! ./.venv/python3
-
+#!/usr/bin/env python3
 import transcripts_and_tags, pprint, shutil, os
 from pathlib import Path
 
