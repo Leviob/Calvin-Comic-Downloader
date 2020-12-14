@@ -1,4 +1,4 @@
-#! ./.venv/python3
+#!/usr/bin/env python3
 import requests, os, bs4, pprint, logging, threading
 from datetime import datetime, date, timedelta
 
